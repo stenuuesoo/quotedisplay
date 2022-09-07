@@ -4,8 +4,8 @@ https://i.imgur.com/h166GVf.png
 See it in action: https://imgur.com/QVydg6D
 
 This webapp uses material ui as a quick way to access already styled components for react.
-This app was developed in tandem with Github Copilot as a AI assisted development process.
+This app was developed in tandem with Github Copilot as an AI assisted development process.
 
-This project solidified my knowledge about props, components,useEffect, useState and asynchronous funcitions.
+This project solidified my knowledge about props, components, useEffect, useState and asynchronous functions.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
